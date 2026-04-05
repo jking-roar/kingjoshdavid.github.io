@@ -3,4 +3,4 @@
 
 Here are varants of classic games
 
-[predictive-analysis-battleship](predicitive-analysis-battleship.md)
+[predictive-analysis-battleship](predictive-analysis-battleship.md)
