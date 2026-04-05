@@ -1,4 +1,3 @@
-# kingjoshdavid.com
 ## /variants
 
 Here are varants of classic games
