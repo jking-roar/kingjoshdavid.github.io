@@ -1,5 +1,6 @@
 ## /variants
 
-Here are varants of classic games
+Here are variants of classic games
 
-[predictive-analysis-battleship](predictive-analysis-battleship.md)
+* [Battleship: Predictive Analysis Variant](predictive-analysis-battleship.md)
+* WAR: Guerilla Tactics Variant
