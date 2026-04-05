@@ -1,2 +1,2 @@
 # kingjoshdavid.github.io
-my static site
+hosts content for https://kingjoshdavid.com
