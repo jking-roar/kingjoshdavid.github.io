@@ -2,7 +2,7 @@
 
 Effective date: April 8th, 2026
 
-This app collects a username that is provided by the user.
+The Funfection Lite app collects a username that is provided by the user.
 
 **How data is used**
 The username is stored locally on the user’s device and is used for in-app identification.
