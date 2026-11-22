@@ -6,13 +6,11 @@ permalink: /whoami/
 
 # whoami
 
-I'm Josh King, also known online as **kingjoshdavid**. I'm a software engineer and game hobbyist.
+I'm Josh King. I'm a software engineer and game hobbyist.
 
 ## Software
 
 I've spent more than 20 years working in software. I enjoy figuring out how things work, improving existing code, and finding practical ways to make everyday tasks easier.
-
-I write [Officiata](https://officiata.blogspot.com/), a blog about getting more out of Microsoft Office. Excel is a particular favorite.
 
 ## Games
 
@@ -23,6 +21,5 @@ You can find some of those experiments in my [game variants]({{ '/variants/' | r
 ## Elsewhere
 
 - [GitHub](https://github.com/jking-roar)
-- [Officiata](https://officiata.blogspot.com/)
 
 [Home]({{ '/' | relative_url }})
