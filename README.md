@@ -5,4 +5,4 @@ site content at https://github.com/jking-roar/kingjoshdavid.github.io
 
 [/whoami](whoami/)
 
-[/playground](https://fubfrctio.kingjoshdavid.com)
+[/playground](https://funfection.kingjoshdavid.com)
